@@ -100,3 +100,7 @@ footer {
     text-align: center;
     font-size: .65em;
 }
+
+a:hover {
+    color: #4aaaa5;
+}
